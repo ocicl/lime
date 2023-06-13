@@ -1,0 +1,10 @@
+* lime
+
+A client for Swank
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/lime.git   |
+| commit  | fe97b95  |
+| systems | lime |
+|---------+-------------------------------------------|
+
